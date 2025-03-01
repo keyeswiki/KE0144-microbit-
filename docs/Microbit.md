@@ -237,9 +237,9 @@ Simulator
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -275,9 +275,9 @@ Simulator
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -313,9 +313,9 @@ LED点阵对应的LED来实现LED点阵显示图案、数字、字符串。除�
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -343,9 +343,9 @@ Micro:bit V2主板有三个按键，反面的是复位按钮，正面的是两�
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -379,9 +379,9 @@ Micro:bit V2主板有三个按键，反面的是复位按钮，正面的是两�
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -425,9 +425,9 @@ Micro:bit V2主板有三个按键，反面的是复位按钮，正面的是两�
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -482,9 +482,9 @@ micro:bit V2主板内置有LSM303AGR
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -560,9 +560,9 @@ micro:bit V2主板内置有LSM303AGR
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -602,9 +602,9 @@ micro:bit V2主板内置有LSM303AGR
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -656,9 +656,9 @@ micro:bit V2主板内置有LSM303AGR
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -684,9 +684,9 @@ micro:bit V2主板内置有LSM303AGR
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -816,13 +816,13 @@ bit自带的5 x 5 LED点阵。在这个实验中我们外接一个keyes
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 草帽LED白发白模块\*1
+keyes 草帽LED白发白模块*1
 
 杜邦线若干
 
@@ -853,13 +853,13 @@ keyes 草帽LED白发白模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 食人鱼LED白光模块\*1
+keyes 食人鱼LED白光模块*1
 
 杜邦线若干
 
@@ -887,13 +887,13 @@ keyes 食人鱼LED白光模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 3W LED模块\*1
+keyes 3W LED模块*1
 
 杜邦线若干
 
@@ -921,13 +921,13 @@ keyes 3W LED模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 有源蜂鸣器模块\*1
+keyes 有源蜂鸣器模块*1
 
 杜邦线若干
 
@@ -958,13 +958,13 @@ keyes 有源蜂鸣器模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 无源蜂鸣器模块\*1
+keyes 无源蜂鸣器模块*1
 
 杜邦线若干
 
@@ -1005,13 +1005,13 @@ RGB色彩模式是工业界的一种颜色标准，是通过对红(R)、绿(G)�
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 插件RGB模块\*1
+keyes 插件RGB模块*1
 
 杜邦线若干
 
@@ -1039,13 +1039,13 @@ keyes 插件RGB模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 按键传感器 \*1
+keyes 按键传感器 *1
 
 杜邦线若干
 
@@ -1074,13 +1074,13 @@ keyes 按键传感器 \*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 倾斜模块传感器 \*1
+keyes 倾斜模块传感器 *1
 
 杜邦线若干
 
@@ -1110,13 +1110,13 @@ keyes 倾斜模块传感器 \*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 光折断传感器\*1
+keyes 光折断传感器*1
 
 杜邦线若干
 
@@ -1147,13 +1147,13 @@ keyes 光折断传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 电容触摸传感器\*1
+keyes 电容触摸传感器*1
 
 杜邦线若干
 
@@ -1181,13 +1181,13 @@ keyes 电容触摸传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-Keyes 红绿灯模块\*1
+Keyes 红绿灯模块*1
 
 杜邦线若干
 
@@ -1215,13 +1215,13 @@ Keyes 红绿灯模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 霍尔传感器\*1
+keyes 霍尔传感器*1
 
 杜邦线若干
 
@@ -1256,13 +1256,13 @@ keyes 霍尔传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 巡线传感器\*1
+keyes 巡线传感器*1
 
 杜邦线若干
 
@@ -1300,13 +1300,13 @@ keyes 巡线传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 避障传感器\*1
+keyes 避障传感器*1
 
 杜邦线若干
 
@@ -1340,13 +1340,13 @@ keyes 避障传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 人体红外热释电传感器\*1
+keyes 人体红外热释电传感器*1
 
 杜邦线若干
 
@@ -1382,15 +1382,15 @@ keyes 人体红外热释电传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 火焰传感器\*1
+keyes 火焰传感器*1
 
-keyes 有源蜂鸣器模块\*1
+keyes 有源蜂鸣器模块*1
 
 杜邦线若干
 
@@ -1419,15 +1419,15 @@ keyes 有源蜂鸣器模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 碰撞传感器\*1
+keyes 碰撞传感器*1
 
-keyes 有源蜂鸣器模块\*1
+keyes 有源蜂鸣器模块*1
 
 杜邦线若干
 
@@ -1462,13 +1462,13 @@ keyes
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 干簧管模块\*1
+keyes 干簧管模块*1
 
 杜邦线若干
 
@@ -1499,15 +1499,15 @@ keyes 干簧管模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 5V 单路继电器模块\*1
+keyes 5V 单路继电器模块*1
 
-keyes 草帽LED白发白模块 \*1
+keyes 草帽LED白发白模块 *1
 
 杜邦线若干
 
@@ -1536,13 +1536,13 @@ keyes 草帽LED白发白模块 \*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-HC-SR04 超声波模块\*1
+HC-SR04 超声波模块*1
 
 杜邦线若干
 
@@ -1598,13 +1598,13 @@ HC-SR04 超声波模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 光敏电阻传感器\*1
+keyes 光敏电阻传感器*1
 
 杜邦线若干
 
@@ -1642,13 +1642,13 @@ keyes 光敏电阻传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 麦克风声音传感器\*1
+keyes 麦克风声音传感器*1
 
 杜邦线若干
 
@@ -1679,13 +1679,13 @@ keyes 麦克风声音传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 可调电位器模块\*1
+keyes 可调电位器模块*1
 
 杜邦线若干
 
@@ -1719,13 +1719,13 @@ keyes 可调电位器模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes MQ-3 酒精传感器\*1
+keyes MQ-3 酒精传感器*1
 
 杜邦线若干
 
@@ -1760,13 +1760,13 @@ keyes MQ-2
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes MQ-2 烟雾传感器\*1
+keyes MQ-2 烟雾传感器*1
 
 杜邦线若干
 
@@ -1796,13 +1796,13 @@ keyes MQ-2 烟雾传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes LM35温度传感器\*1
+keyes LM35温度传感器*1
 
 杜邦线若干
 
@@ -1834,13 +1834,13 @@ keyes LM35温度传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes TEMT6000光线传感器\*1
+keyes TEMT6000光线传感器*1
 
 杜邦线若干
 
@@ -1872,13 +1872,13 @@ keyes TEMT6000光线传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes土壤传感器\*1
+keyes土壤传感器*1
 
 杜邦线若干
 
@@ -1910,15 +1910,15 @@ keyes土壤传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 水位传感器\*1
+keyes 水位传感器*1
 
-keyes 有源蜂鸣器模块\*1
+keyes 有源蜂鸣器模块*1
 
 杜邦线若干
 
@@ -1951,13 +1951,13 @@ keyes 有源蜂鸣器模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes GUVA-S12SD 3528 紫外线传感器\*1
+keyes GUVA-S12SD 3528 紫外线传感器*1
 
 杜邦线若干
 
@@ -1990,13 +1990,13 @@ keyes GUVA-S12SD 3528 紫外线传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 水滴水蒸气传感器\*1
+keyes 水滴水蒸气传感器*1
 
 杜邦线若干
 
@@ -2030,13 +2030,13 @@ keyes 水滴水蒸气传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-Keyes 薄膜压力传感器\*1
+Keyes 薄膜压力传感器*1
 
 杜邦线若干
 
@@ -2071,15 +2071,15 @@ Keyes 薄膜压力传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 震动模块传感器\*1
+keyes 震动模块传感器*1
 
-keyes 食人鱼LED白光模块\*1
+keyes 食人鱼LED白光模块*1
 
 杜邦线若干
 
@@ -2109,13 +2109,13 @@ keyes 食人鱼LED白光模块\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-keyes 摇杆模块传感器\*1
+keyes 摇杆模块传感器*1
 
 杜邦线若干
 
@@ -2145,13 +2145,13 @@ keyes 摇杆模块传感器\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-SG90舵机\*1
+SG90舵机*1
 
 接线图
 
@@ -2178,13 +2178,13 @@ SG90舵机\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-1602 I2C LCD\*1
+1602 I2C LCD*1
 
 杜邦线若干
 
@@ -2228,15 +2228,15 @@ keyes DHT11温湿度传感器是一款含有已校准数字信号输出的温湿
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-keyes micro bit 传感器V2扩展板\*1
+keyes micro bit 传感器V2扩展板*1
 
-USB线\*1
+USB线*1
 
-1602 I2C LCD\*1
+1602 I2C LCD*1
 
-keyes DHT11温湿度传感器\*1
+keyes DHT11温湿度传感器*1
 
 杜邦线若干
 
